@@ -1,4 +1,4 @@
-# CFG-Project
+# CFG-Project - Cryptocurrencies and NFTs
 Review of Cryotpcurrencies and NFT sales
 
 
